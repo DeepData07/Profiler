@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row; /* changed from column to row */
+    height: 100vh;
+    width: 100vw;
+}
+
+.section{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Coder_Section{
+
+}
+
+.Developer_Section{
+    
+}
+
+.Coder{
+
+}
+
+.Developer{
+
+}
+
+.Coder_Button{
+    
+}
+
+.Developer_Button{
+
+}
